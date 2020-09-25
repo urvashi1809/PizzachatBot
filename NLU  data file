@@ -1,0 +1,23 @@
+intent:greet
+
+hey
+hello
+hi
+hello there
+intent:provide_all
+
+I want to order large pizza with olives
+I like small olvs pizza
+pepperoni smll pizza
+wnt to oder lrg chezze piza
+wnt to odr mdim tamatas pija
+wnt to ordr least carn pijja
+wont laarg peper pijaa
+wnt mdm onins piza
+intent:provide_none
+
+I want pizza
+I want to order a pizza
+pizza
+Pizza please
+Pizza will do
